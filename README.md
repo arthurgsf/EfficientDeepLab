@@ -1,0 +1,2 @@
+# EfficientDeepLab Para Segmentação Semântica
+Modelo de rede neural encoder/decoder utilizado para segmentação semântica. Utiliza a arquitetura [DeepLabV3+](https://arxiv.org/abs/1802.02611) em conjunto com um backbone da rede [EfficientNet](https://arxiv.org/abs/1905.11946).
